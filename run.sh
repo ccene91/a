@@ -1,0 +1,2 @@
+ls -l
+printenv
